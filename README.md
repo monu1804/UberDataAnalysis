@@ -1,3 +1,5 @@
+Uber Data - https://drive.google.com/file/d/1D7DgbGBf1dflxHPMbkCmYVqQ67h1x-tO/view?usp=drive_link
+
 The Uber dataset contains 31 million rows of data from September 2014 to August
 2015, including information about trip origin, destination, pickup and drop-off
 dates/times, trip distance and duration. The data allows for estimating Uber's revenue
@@ -24,4 +26,4 @@ Also, feature engineering was used to construct several columns that can help wi
 analysis and expand the area of study. As a result, I made distinct columns for the year,
 month, and day of the trip. These columns were then utilized to determine the data's
 monthly trend. Also included a column for trip revenue, which was used to determine
-total revenue and average revenue. The revenue consisted of various components like:
+total revenue and average revenue. 
